@@ -71,5 +71,6 @@ def no_vowels(input_string):
             continue
         temp.append(i)
 
+
     no_vowel_string = "".join(temp)
     return no_vowel_string
